@@ -9,7 +9,7 @@
             "hash": "bfbe9ca1b1864a9b71d463057e15bdcf3cc98b9062f0c2485db78d2a57ec4253"
         }
     },
-    "bin": "dprint.exe",
+    "bin": "dprint-x86_64-pc-windows-msvc-installer.exe",
     "checkver": {
 "github": "https://github.com/dprint/dprint"
     },
