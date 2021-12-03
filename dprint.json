@@ -16,8 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/dprint/dprint/releases/download/$version/dprint-x86_64-pc-windows-msvc-installer.exe",
-                "extract_dir": "dprint_$underscoreVersion_windows\\dprint-$version"
+                "url": "https://github.com/dprint/dprint/releases/download/$version/dprint-x86_64-pc-windows-msvc-installer.exe"
             }
         },
               "hash": {
