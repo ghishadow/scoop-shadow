@@ -1,5 +1,5 @@
 {
-    "version": "0.19.1 ",
+    "version": "0.19.1",
     "description": "Pluggable and configurable code formatting platform.",
     "homepage": "https://dprint.dev/",
     "license": "MIT",
