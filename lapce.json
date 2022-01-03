@@ -5,7 +5,7 @@
     "homepage": "https://github.com/lapce/lapce",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ghishadow/lapce/releases/download/0.0.5/Lapce-windows.msi",
+            "url": "https://github.com/ghishadow/lapce/releases/download/v0.0.5/Lapce-windows.msi",
 	    "hash": "ce5669d27c4200447f0aeed4dbce8abaab27fed5"
         }
     }
