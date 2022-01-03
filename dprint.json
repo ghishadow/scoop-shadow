@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dprint/dprint/releases/download/0.19.1/dprint-x86_64-pc-windows-msvc-installer.exe",
+            "url": "https://github.com/dprint/dprint/releases/download/0.19.2/dprint-x86_64-pc-windows-msvc-installer.exe",
             "hash": "8545b4e6d2bb666dc79add7bfefe1f4042b7b4d7666802f82d9435f633d258d0"
         }
     },
