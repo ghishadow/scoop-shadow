@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/ghishadow/lapce/releases/download/scoop_build/Lapce-windows.msi",
-	    "hash": "b18e3e6e5e0188fa8fffa1a14789cd3d21e5a8407bd46853855e1f9cbf8e836d"
+	    "hash": "5fdc93e15eaa626e6481d8b71b642a0ded5d4d2305b190144e1832f9f018ad4f"
         }
     },
     "checkver": "github",
