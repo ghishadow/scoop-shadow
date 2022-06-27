@@ -3,12 +3,6 @@
     "description": "Language server for zig.",
     "homepage": "https://github.com/zigtools/zls",
     "license": "MIT",
-    "suggest": {
-        "zig": [
-            "scoop-zig/zig",
-            "scoop-zig/zig-dev"
-        ]
-    },
     "architecture": {
         "64bit": {
             "url": "https://github.com/zigtools/zls/releases/download/0.9.0/x86_64-windows.tar.xz",
