@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://alpha.gnu.org/gnu/emacs/pretest/windows/emacs-29/emacs-29.0.50-snapshot-2022-04-02.zip",
+            "url": "https://alpha.gnu.org/gnu/emacs/pretest/windows/emacs-29/emacs-29.0.50-snapshot-2022-07-18.zip",
             "hash": "83f3dec225880dd08442dc5240f24c1c5a1dc4c82a647212ab5ee456f0b4a754"
         }
     },
