@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/lapce/lapce/releases/download/nightly/Lapce-windows-portable.zip",
-            "hash": "1d4fbc038d15cfbfdfe5e2bc0c20e4343441e6aa1184f227a13b8a786825af67"
+            "hash": "5769de5698852322350d669f26451bf472329150ff0af614f9bf01e1a657f81d"
         }
     },
     "bin": "lapce.exe",
