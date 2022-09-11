@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/lapce/lapce/releases/download/nightly/Lapce-windows.msi",
-            "hash": "eb93c1747ce112678d3e527184c56e6dafd32908e7cbfe028c21dc5a39a3eb75"
+            "hash": "8249a5af9a2f74e8af30226665b0ab9c6d2213c105a7be23ca1b66ff4fff2f5b"
         }
     },
     "bin": "lapce.exe",
