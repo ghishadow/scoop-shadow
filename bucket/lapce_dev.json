@@ -18,7 +18,6 @@
     ],
     "checkver": {
         "url": "https://api.github.com/repos/lapce/lapce/releases",
-        "regex": "LAPCE v([\\w.-]+)"
     },
     "autoupdate": {
         "architecture": {
