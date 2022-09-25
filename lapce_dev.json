@@ -17,12 +17,16 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/lapce/lapce"
+        "url": "https://api.github.com/repos/lapce/lapce/releases",
+        "regex": "LAPCE v([\\w.-]+)"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/lapce/lapce/releases/download/nightly/lapce-proxy-windows-x86_64.gz"
+                "url": "https://github.com/lapce/lapce/releases/download/nightly/Lapce-windows-portable.zip",
+                "hash": {
+                    "url": "$url.sha256sum"
+                }
             }
         }
     }
