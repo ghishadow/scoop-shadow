@@ -23,8 +23,6 @@ scoop install dprint
 Lightning-fast and Powerful Code Editor written in Rust
 
 ``` powershell
-scoop install lapce
+scoop install lapce_dev/lape_nightly
 
 ```
-
-> note: it is work in progress
