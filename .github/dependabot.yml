@@ -4,8 +4,13 @@
 # https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
 version: 2
+enable-beta-ecosystems: true
 updates:
   - package-ecosystem: "github-actions" # See documentation for possible values
     directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
+  - package-ecosystem: "beta-ecosystem"
+    directory: "/"
     schedule:
       interval: "weekly"
