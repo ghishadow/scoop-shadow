@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://alpha.gnu.org/gnu/emacs/pretest/windows/emacs-29/emacs-29.0.50-snapshot-2022-10-13.zip",
-            "hash": ""
+            "hash": "b3c8059c85cd2fc6e2b3d7858e0cd07416ce4b4f9f992987d97ce795beeb6ebf"
         }
     },
     "bin": [
