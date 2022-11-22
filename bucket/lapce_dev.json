@@ -1,7 +1,7 @@
 {
     "homepage": "http://lapce.dev/",
     "description": "Lightning-fast and Powerful Code Editor written in Rust",
-    "version": "0.2.4",
+    "version": "0.2.6",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
