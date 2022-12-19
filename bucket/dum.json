@@ -1,13 +1,13 @@
 {
-    "version": "0.33.0",
+    "version": "0.34.0",
     "description": "An npm scripts runner written in Rust.",
     "homepage": "https://dprint.dev/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dprint/dprint/releases/download/0.33.0/dprint-x86_64-pc-windows-msvc-installer.exe",
-            "hash": "675c487be21d782956d7ae594ff9676d366cd85cdacb9048d5144b2f7fbd92cc",
-            "extract_dir": "dprint_0_33_0_windows\\dprint-0.33.0"
+            "url": "https://github.com/dprint/dprint/releases/download/0.34.0/dprint-x86_64-pc-windows-msvc-installer.exe",
+            "hash": "18df0ff20143195e65c68360f3c6c145dad549ba5c2ec43f51065b813a2766fd",
+            "extract_dir": "dprint_0_34_0_windows\\dprint-0.34.0"
         }
     },
     "bin": "dprint.exe",
