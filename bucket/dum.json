@@ -1,5 +1,5 @@
 {
-    "version": "0.34.1",
+    "version": "0.1.19",
     "description": "An npm scripts runner written in Rust.",
     "homepage": "https://dprint.dev/",
     "license": "MIT",
