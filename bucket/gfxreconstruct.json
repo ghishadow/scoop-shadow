@@ -1,0 +1,16 @@
+{
+    "version": "0.9.17",
+    "description": "Graphics API Capture and Replay Tools for Reconstructing Graphics Application Behavior",
+    "homepage": "https://github.com/LunarG/gfxreconstruct",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/LunarG/gfxreconstruct/releases/download/v0.9.17/gfxreconstruct-v0.9.17-windows-msvc.zip",
+            "hash": "c843be60053c8efd601e7b754523176c33a01261ba222f55eb6ba24d0fc6f363"
+        }
+    },
+    "bin": "gfxreconstruct.exe",
+    "checkver": {
+"github": "https://github.com/LunarG/gfxreconstruct"
+    }
+}
