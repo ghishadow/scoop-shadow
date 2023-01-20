@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/LunarG/gfxreconstruct/releases/download/v0.9.17/gfxreconstruct-v0.9.17-windows-msvc.zip",
-            "hash": "c843be60053c8efd601e7b754523176c33a01261ba222f55eb6ba24d0fc6f363"
+            "hash": "70ddad945db6d93ed08b71faa8114843c0da6cf698fb94cd5a07c22501fb4e00"
         }
     },
     "bin": "gfxreconstruct.exe",
