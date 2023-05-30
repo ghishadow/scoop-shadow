@@ -1,5 +1,5 @@
 {
-    "version": "5.8",
+    "version": "2023.05.22",
     "homepage": "https://www.swift.org/",
     "description": "A general-purpose programming language built using a modern approach to safety, performance, and software design patterns.",
     "license": "Apache-2.0",
@@ -13,7 +13,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://download.swift.org/swift-5.8-release/windows10/swift-5.8-RELEASE/swift-5.8-RELEASE-windows10.exe#/swiftsetup.exe",
+            "url": "https://download.swift.org/development/windows10/swift-DEVELOPMENT-SNAPSHOT-2023-05-22-a/swift-DEVELOPMENT-SNAPSHOT-2023-05-22-a-windows10.exe"
             "hash": "46466daf79a6fbdd2bde7d9683248ae98fb502878190c326ebcc311d68d7ad3e"
         }
     },
