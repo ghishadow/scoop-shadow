@@ -9,9 +9,6 @@
             "nodejs-lts"
         ]
     },
-    "depends": [
-        "nodejs"
-    ],
     "url": "https://registry.npmjs.org/@google/gemini-cli/-/gemini-cli-0.1.9.tgz",
     "hash": "0f995b6ecacb8a1059e8f4cca7c89008c8e17563ff67acd523bfe1cfbe8dfb83",
     "extract_dir": "package",
