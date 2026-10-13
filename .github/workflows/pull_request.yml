@@ -7,7 +7,7 @@ jobs:
     name: PullRequestHandler
     runs-on: windows-latest
     steps:
-    - uses: actions/checkout@v6
+    - uses: actions/checkout@v7
     - name: PullRequestHandler
       uses: ScoopInstaller/GithubActions@main
       env:
