@@ -1,5 +1,5 @@
 {
-    "version": "0.69.0",
+    "version": "0.70.0",
     "description": "Gemini CLI: A command-line AI workflow tool that connects to your tools, understands your code and accelerates your workflows.",
     "homepage": "https://github.com/google-gemini/gemini-cli",
     "license": "Apache-2.0",
@@ -9,8 +9,8 @@
             "nodejs-lts"
         ]
     },
-    "url": "https://registry.npmjs.org/@google/gemini-cli/-/gemini-cli-0.69.0.tgz",
-    "hash": "be20f6f8103f19df4a9cb8ad8b0744cd2a3335bd9fd3c6664f3235306e18172c",
+    "url": "https://registry.npmjs.org/@google/gemini-cli/-/gemini-cli-0.70.0.tgz",
+    "hash": "be811606fc364c5679693d686c456fa2413c50bc6174d568439b4ddb4533906b",
     "extract_dir": "package",
     "bin": [
         [
